@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: surakshacovid19.tech
+Token: c21cfe9d4da79c781e5e1ad5a664a4b52a85227cdb8050cb4fdbdb00520cec8a
